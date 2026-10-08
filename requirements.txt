@@ -1,0 +1,6 @@
+streamlit
+pillow
+pikepdf
+fpdf
+ghostscript
+pymupdf 
